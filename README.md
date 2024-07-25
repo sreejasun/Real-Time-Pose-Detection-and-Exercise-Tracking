@@ -5,9 +5,14 @@ This project leverages MediaPipe and OpenCV to perform real-time pose detection 
 
 ### Dependencies
 OpenCV: For video capture and image processing.
+
 MediaPipe: For pose detection and landmark extraction.
+
 NumPy: For mathematical operations.
+
+
 To install the dependencies, use the following command:
+
 pip install mediapipe opencv-python numpy
 
 ### Key Components
