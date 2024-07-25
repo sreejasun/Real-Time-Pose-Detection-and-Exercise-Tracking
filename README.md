@@ -1,4 +1,4 @@
-## Project Title: Real-Time Pose Detection and Exercise Tracking
+## Real-Time Pose Detection and Exercise Tracking
 
 ### Project Overview
 This project leverages MediaPipe and OpenCV to perform real-time pose detection and exercise tracking. The application detects human poses using a webcam feed and calculates the angle between specific body joints to track exercises, such as bicep curls. It visualizes the pose landmarks, calculates angles, and provides feedback on exercise performance, such as counting repetitions and detecting the exercise stage.
