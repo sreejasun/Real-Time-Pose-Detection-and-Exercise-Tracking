@@ -12,7 +12,6 @@ NumPy: For mathematical operations.
 
 
 To install the dependencies, use the following command:
-
 pip install mediapipe opencv-python numpy
 
 ### Key Components
